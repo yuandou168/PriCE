@@ -27,13 +27,18 @@ Use the terminal for the following steps:
 3. pipeline-example for artifact detection: storing the application using CNN inference models for artifact detection in WSI. 
 4. PriCE-exps: storing the experimental worklows and /or Jupyter notebooks of the PriCE experiments and simulations
     
-    4.1 how to split a gigapixel medical image?
+    ##### 4.1 how to split a gigapixel medical image?
+
         * `PriCE/PriCE-exps/graph_coloring_based_image_splitting.ipynb`
+
         * `PriCE/PriCE-exps/evenly_split_w_wo_shuffle.ipynb`
 
-    4.2 how to encrypt/decrypt sensitive information of medical images? How to quantify the privacy-preserving goals?
-        * `PriCE/PriCE-exps/pertubedata_privacy_risk_evaluation.ipynb` (data perturbation and its privacy-preserving algorithm evaluation)
+    ##### 4.2 how to encrypt/decrypt sensitive information of medical images? How to quantify the privacy-preserving goals?
+
+        * `PriCE/PriCE-exps/pertubedata_privacy_risk_evaluation.ipynb` 
+        (data perturbation and its privacy-preserving algorithm evaluation)
 
     
-    4.3 how to seek the 3D Pareto optimal resource planning?
+    ##### 4.3 how to seek the 3D Pareto optimal resource planning?
+
         * `PriCE/PriCE-exps/Pareto_3D_evaluation.ipynb`

@@ -1,5 +1,5 @@
 ## This folder stores the privacy evaluation results
 
 * coordinates 
-|--- graph-coloring-based-split
-|--- even/average split w/wo shuffle 
+|--- graph_split1 --> graph-coloring-based-split
+|--- even_split --> even/average split w/wo shuffle 

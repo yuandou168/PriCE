@@ -17,7 +17,7 @@ Use the terminal for the following steps:
 1. Create the environment from the `environment.yml` file:
 
     ```conda env create -f environment.yml```
-2. Activate the new environment: ```conda activate myenv```
+2. Activate the new environment: ```conda activate mytorch```
 
 3. Verify that the new environment was installed correctly:
 

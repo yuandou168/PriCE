@@ -31,7 +31,10 @@ Use the terminal for the following steps:
 1. Create a virtual environment instance from the `environment.yml` file via `conda` command:
 
     ```conda env create -f environment.yml```
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 2. Activate the new environment: ```conda activate mytorch```
 
 3. Verify that the new environment was installed correctly:
